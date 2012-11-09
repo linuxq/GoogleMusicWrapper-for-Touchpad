@@ -1,0 +1,11 @@
+{
+  "id": "com.meissel.gmusicwrapper",
+  "version": "1.0.0",
+  "vendor": "Marcel Meissel",
+  "type": "web",
+  "main": "index.html",
+  "title": "GMusic Wrapper",
+  "icon": "images/icon64.png",
+  "dockMode": true,
+  "uiRevision": "2"
+}
